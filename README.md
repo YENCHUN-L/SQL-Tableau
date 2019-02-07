@@ -1,8 +1,8 @@
 # Tableau
-Analysis for Yelp Business
+Analysis on Yelp Business
 
 https://public.tableau.com/profile/yenchunliu#!/vizhome/IndividualSQLTableau/AnalysisforYelpBusiness
 
-Analysis for NYC flights
+Analysis on NYC flights
 
 https://public.tableau.com/profile/yenchunliu#!/vizhome/GroupSQLTableau/NYCFLIGHTS
